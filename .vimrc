@@ -9,5 +9,5 @@
 :set incsearch " Enables incremental search (searches while typing)
 :set ignorecase " Makes search case-insensitive
 :set confirm " Turns on confirmations when performing some operations
-:set history = 200
+:set history=200
 :syntax on
