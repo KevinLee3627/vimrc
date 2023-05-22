@@ -1,9 +1,11 @@
-:set number " Line numbers on
+:set rnu " Line numbers on
 :set linebreak " Wrapping does not break words apart
+:set smarttab
 :set tabstop=2
 :set shiftwidth=2
 :set expandtab
 :set smartindent " Indents smartly
+:set autoindent " Auto-indent
 :set ruler " Shows line/cursor in status break
 :set hlsearch " Enables search highlighting
 :set incsearch " Enables incremental search (searches while typing)
